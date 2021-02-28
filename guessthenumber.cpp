@@ -15,7 +15,7 @@ void rules()
 }
 
 
-int main15()
+int main()
 {
 	string playerName;
 	int balance; // stores player's balance
