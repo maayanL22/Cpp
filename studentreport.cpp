@@ -189,7 +189,7 @@ void bestStudent(Student *students, bool *isExist)
 }
 
 
-int main11()
+int main()
 {
 	Student *arr = new Student[2];
 	bool isStuds[2] = { false, false };
