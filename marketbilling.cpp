@@ -165,7 +165,7 @@ void amount::pay()
 	cout << "\n\t\t*********************************************";
 }
 
-int main14()
+int main()
 {
 	cout.setf(ios::fixed);
 	cout.setf(ios::showpoint);
