@@ -93,7 +93,7 @@ void book::buybook()
 
 
 
-int main12() {
+int main() {
 	book *B[20];
 	int i = 0, t, choice;
 	char titlebuy[20], authorbuy[20];
