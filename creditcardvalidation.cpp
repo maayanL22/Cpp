@@ -13,7 +13,7 @@ bool isNumberString(const string& s) {
 	return true;
 }
 
-int main13() {
+int main() {
 	string ccNumber;
 
 	cout << "This program uses the Luhn Algorigthm to validate a CC number." << endl;
